@@ -1,0 +1,20 @@
+Translating visual design into a website. 
+
+Html files are the structure of the house that is a website.  CSS is the decorations and stlyes you choose.  
+Javascript is like your TV, interactive. 
+
+
+Chrome browser builds a branching tree structure for html.  example Div->H2->span->text  
+
+
+HTLM and CSS are both languages.   HTLM handles the structure of a page (frame in a house) CSS controls the style
+(the brick and finishings you choose for the house)
+
+DOM or Document Object Model is the tree like structure of a webpage.  A standard convention for interatcing and representing  elements in HTML
+
+Broswers turn HTML tags into elements in the tree or DOM
+
+Elements exist between <tag> and </tag>   whats inbetween those tags in contents. 
+
+
+CSS  uses syntax and rules to change how the page looks
