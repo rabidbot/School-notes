@@ -18,3 +18,63 @@ Elements exist between <tag> and </tag>   whats inbetween those tags in contents
 
 
 CSS  uses syntax and rules to change how the page looks
+
+
+Notes on CSS
+
+CSS= cascading style sheets.
+
+CSS is code that controls the style (look) of HTML
+
+You can have serveral CSS files. 
+
+Avoiding repatition is a huge plus to CSS
+
+With CSS the most specific rule is applied to all elements 
+Descendant elements may inherit CSS property values from any ancestor element enclosing them
+
+
+Div tags can have class ie <div class="title">
+You can use the class or a tag as a selector.  The selector allows you to choose where to apply rules. 
+
+CSS example
+
+.class  {
+	attribute: value;
+}
+
+tons of attributes for CSS 
+
+link to doc sheet
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference
+
+Rule: a line of CSS code describing the value that a certain attribute should take.
+
+Property: The property you want to change.
+
+The line of code that says
+ background-color : black;
+
+  is a declaration. 
+
+  background-color
+
+   is a property and 
+
+   black
+
+    is the value of that property.
+
+
+
+Using in browser dev tools is a powerful way to help design and refine. 
+
+
+ CODE TEST REFINE
+
+ 1. look for natural boxes
+ 2. look for prepated styles 
+ 3. Write HTML
+ 4. Apply styles from biggest to smalles 
+ 5. Fix things 

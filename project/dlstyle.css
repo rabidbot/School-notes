@@ -1,0 +1,26 @@
+body {
+  font-family: "Lucida Sans Unicode";
+  
+}
+
+h1 {
+  background-color: lightblue;
+  font-family: Tahoma, Geneva, sans-serif;
+  border-color: darkgrey;
+  padding: 10px;
+  border-radius: 30px;
+  text-align: center;
+}
+
+.lessons {
+  border-style: ridge;
+  background-color: #daeef5;
+  padding: 3px;
+  box-sizing: border-box;
+  max-width: fit-content;
+  text-align: center;
+  
+}
+.mainbody{
+  text-align: center;
+}
